@@ -71,7 +71,7 @@ The platform provides a complete solution for contact management, HTML email tem
 # Technology Stack
 
 ## Backend
-- Java
+
 - Python
 - FastAPI
 
@@ -79,7 +79,7 @@ The platform provides a complete solution for contact management, HTML email tem
 - MySQL
 
 ## Application Servers
-- Apache Tomcat
+
 - Uvicorn
 
 ## Development Tools
