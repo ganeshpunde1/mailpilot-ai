@@ -127,13 +127,12 @@ Designed and managed relational database schemas for:
 
 # Future Enhancements
 
-- AI-powered email personalization
 - Advanced analytics dashboard
 - Cloud-native deployment
 - Multi-language support
 - Modern UI/UX improvements
 - Enhanced SMTP integrations
-- AI-based campaign optimization
+
 
 ---
 
