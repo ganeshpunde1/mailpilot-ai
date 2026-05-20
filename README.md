@@ -70,11 +70,6 @@ The platform provides a complete solution for contact management, HTML email tem
 
 # Technology Stack
 
-## Frontend
-- HTML
-- CSS
-- JavaScript
-
 ## Backend
 - Java
 - Python
@@ -116,19 +111,6 @@ Designed and managed relational database schemas for:
 - SMTP configuration
 - Activity scheduling
 - Audit and reporting modules
-
----
-
-# Testing & Quality Assurance
-
-- Unit Testing
-- Integration Testing
-- Black Box Testing
-- White Box Testing
-- Alpha & Beta Testing
-- End-to-End Functional Validation
-
----
 
 # Project Advantages
 
